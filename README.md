@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed:
 
 - **Java Development Kit (JDK)**: Version 8 or higher.
 - **Eclipse IDE**: For Java EE Developers.
-- **Apache Tomcat**: Version 9.x or higher.
+- **Apache Tomcat**: Version 10.1 or higher.
 - **MySQL**: Version 8.x or higher.
 - **MySQL Connector/J**: JDBC driver for MySQL.
 - **JUnit**: Version 4 or higher.
